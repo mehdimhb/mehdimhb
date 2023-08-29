@@ -4,6 +4,6 @@
 - 📫 How to reach me: mehdi.mohebbi23@gmail.com
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdimhb&show_icons=true&locale=en&layout=compact" alt="mehdimhb" />
-  <img width="50%"  src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=mehdimhb&" alt="mehdimhb" />
+  <img width="45%" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mehdimhb&show_icons=true&locale=en&layout=compact" alt="mehdimhb" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mehdimhb&" alt="mehdimhb" />
 </div>
